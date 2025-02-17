@@ -1,6 +1,6 @@
 {
   "name": "grl-dropdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A customizable React dropdown component supporting single and multiple selections.",
   "main": "lib/index.js",
   "repository": {
