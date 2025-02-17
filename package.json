@@ -3,6 +3,14 @@
   "version": "1.0.2",
   "description": "A customizable React dropdown component supporting single and multiple selections.",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imsaksham0204/grl-dropdown"
+  },
+  "homepage": "https://www.graniteriverlabs.com/en-us/",
+  "bugs": {
+    "url": "https://github.com/Imsaksham0204/grl-dropdown/issues"
+  },
   "scripts": {
     "build": "babel src --out-dir lib",
     "prepublishOnly": "npm run build"
